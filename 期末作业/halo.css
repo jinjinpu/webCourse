@@ -1,0 +1,53 @@
+.form-bg {
+  background: url();
+  background-size: 100% 120%;
+  height: 500px;
+  width: 100%;
+  color: #fff;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.search-input-long {
+
+}
+.search-btn {
+background-color: cornflowerblue;
+border-radius: 5px;
+line-height: 50px;
+width: 200px;
+display: inline-block;
+text-align: center;
+margin: 10 0;
+}
+.see {
+margin: 10px;
+height: 50px;
+border: none;
+width: 600px;
+border-radius: 5px;
+padding: 0 10px;
+}
+.b {
+display: flex;
+width: 100%;
+justify-content: space-between;
+}
+.white-box {
+color: #fff;
+border: 1px solid #fff;
+padding: 15px 50px;
+margin: 2% 2% 2% 0;
+border-radius: 5px;
+text-transform: uppercase;
+font-weight: 800;
+}
+.white-box a {
+color: #fff;
+text-decoration: none;
+}
+.white-box:hover {
+background-color: darkgray;
+}
+.search-btn:hover {
+background-color: blue;
+}
